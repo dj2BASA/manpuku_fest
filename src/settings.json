@@ -1,0 +1,60 @@
+﻿{
+  "category_list": [
+    {
+      "category_name": "投票数",
+      "rank_1_add_score": 15,
+      "rank_2_add_score": 10,
+      "rank_3_add_score": 5,
+      "decimal_places": 0,
+      "unit": "チーム",
+      "team_1_num": 100,
+      "team_2_num": 200,
+      "team_3_num": 300,
+      "team_1_add_score": 5,
+      "team_2_add_score": 10,
+      "team_3_add_score": 15
+    },
+    {
+      "category_name": "金イクラの平均個数",
+      "rank_1_add_score": 15,
+      "rank_2_add_score": 10,
+      "rank_3_add_score": 5,
+      "decimal_places": 2,
+      "unit": "個",
+      "team_1_num": 355.55000000000001,
+      "team_2_num": 320,
+      "team_3_num": 366.66000000000002,
+      "team_1_add_score": 10,
+      "team_2_add_score": 5,
+      "team_3_add_score": 15
+    },
+    {
+      "category_name": "金ウロコの合計個数",
+      "rank_1_add_score": 15,
+      "rank_2_add_score": 10,
+      "rank_3_add_score": 5,
+      "decimal_places": 0,
+      "unit": "枚",
+      "team_1_num": 30,
+      "team_2_num": 20,
+      "team_3_num": 10,
+      "team_1_add_score": 15,
+      "team_2_add_score": 10,
+      "team_3_add_score": 5
+    },
+    {
+      "category_name": "項目1",
+      "rank_1_add_score": 5,
+      "rank_2_add_score": 0,
+      "rank_3_add_score": 0,
+      "decimal_places": 0,
+      "unit": "",
+      "team_1_num": 0,
+      "team_2_num": 1,
+      "team_3_num": 0,
+      "team_1_add_score": 0,
+      "team_2_add_score": 5,
+      "team_3_add_score": 0
+    }
+  ]
+}
